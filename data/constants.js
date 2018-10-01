@@ -1,0 +1,1 @@
+export const LIKE_PHOTO = 'LIKE_PHOTO'
